@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Devendra from OSI Digitsl
+- 👋 Hi, I’m Devendra from OSI Digital
 - 👀 I’m interested in data industry
 - 🌱 I’m currently learning, data engineering
 - 📫 How to reach me ...dsatpute@osidigital.com
